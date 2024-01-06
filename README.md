@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 ![image](https://github.com/wayMD/wayMD/assets/155566963/df101267-1d36-4fd5-8af6-d4147f42e8ff)
+
 
 <!--
 **wayMD/wayMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
